@@ -1,0 +1,13 @@
+{
+  "name": "Solo Close Kit",
+  "url": "https://kit.aihelpwise.com/",
+  "description": "Fill-in recap emails, a proposal outline, a 7-day follow-up, a kickoff agenda and a CSV pipeline tracker for solo consultants",
+  "category": "business",
+  "platforms": ["web"],
+  "deal": "31% off, $34 (was $49), no code, through Cyber Monday (Nov 30)",
+  "pricing": "one-time",
+  "price": { "regular": 49, "sale": 34, "currency": "USD" },
+  "discount": 31,
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-30"
+}
